@@ -2,6 +2,7 @@ body {
     margin: auto;
     width: 80%;
     background-color: WhiteSmoke;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 nav ul, footer ul {
@@ -19,9 +20,15 @@ nav ul li {
 footer ul li {
     display: inline;
     margin-right: 20px;
+    color: #999;
 }
 
-a {
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+.a_nav, .a_footer{
     text-decoration: none;
     color: #999;
 }
@@ -44,7 +51,9 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
+    text-align: center;
 }
+
 
 ul.posts {
     margin: 20px auto 40px;
