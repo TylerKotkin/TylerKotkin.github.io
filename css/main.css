@@ -74,13 +74,15 @@ ul.posts {
   width: 25%;
   float: left;
   text-align: center;
+  margin-top: 2em;
 }
 
 .project_info {
   width: 65%;
   float: right;
   margin-right: 10%;
-  margin-top: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 /*.project_div {
@@ -89,13 +91,13 @@ ul.posts {
 }*/
 
 .project_div1 {
-  height: 12em;
   background-color: #3F7EBD;
+  overflow: auto;
 }
 
 .project_div2 {
-  height: 12em;
   background-color: #4D95DF;
+  overflow: auto;
 }
 
 .project_p{
