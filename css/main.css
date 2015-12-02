@@ -1,9 +1,9 @@
 body {
     margin: auto;
     width: 100%;
-    background-color: WhiteSmoke;
+    background-color: #4D95DF;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #525252;
+    color: WhiteSmoke;
 }
 
 nav ul, footer ul {
@@ -33,7 +33,7 @@ a{
 
 .a_nav, .a_footer{
     text-decoration: none;
-    color: #999;
+    color: WhiteSmoke;
 }
 
 a:hover {
@@ -42,10 +42,12 @@ a:hover {
 
 h1 {
     font-size: 3em;
+    color: WhiteSmoke;
 }
 
 h2 {
     font-size: 2em;
+    color: WhiteSmoke;
 }
 
 p {
@@ -78,10 +80,22 @@ ul.posts {
   width: 65%;
   float: right;
   margin-right: 10%;
+  margin-top: 1em;
 }
 
-.project_div {
+/*.project_div {
   height: 12em;
+  background-color: #3F7EBD;
+}*/
+
+.project_div1 {
+  height: 12em;
+  background-color: #3F7EBD;
+}
+
+.project_div2 {
+  height: 12em;
+  background-color: #4D95DF;
 }
 
 .project_p{
