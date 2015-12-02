@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 80%;
+    width: 100%;
     background-color: WhiteSmoke;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #525252;
@@ -10,6 +10,8 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 1px;
     font-weight: bold;
+    margin-left: 10%;
+    margin-right: 10%
 }
 
 nav ul li {
@@ -73,8 +75,9 @@ ul.posts {
 }
 
 .project_info {
-  width: 74%;
+  width: 65%;
   float: right;
+  margin-right: 10%;
 }
 
 .project_div {
