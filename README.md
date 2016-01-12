@@ -1,2 +1,2 @@
 
-<div align="center">http://tylerkotkin.github.io/</div>
+<div align="center">http://tylerkotkin.com</div>
