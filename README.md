@@ -3,4 +3,4 @@
 
 Click [here](https://tylerkotkin.github.io) to view my portfolio.
 
-Click [here](https://tylerkotkin.github.io/tk_resume.pdf) to view my resume.
+Click [here](https://tylerkotkin.github.io/resume.pdf) to view my resume.
