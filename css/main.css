@@ -114,6 +114,23 @@ ul.posts {
   text-decoration: none;
 }
 
+.button {
+  border-style: solid;
+  border-color: #ffffff;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 20px 30px 20px 30px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #3F7EBD;
+  text-decoration: none;
+}
+
 /*.project_div {
   height: 12em;
   background-color: #3F7EBD;
