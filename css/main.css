@@ -98,7 +98,7 @@ ul.posts {
   -webkit-box-shadow: 0px 2px 6px #666666;
   -moz-box-shadow: 0px 2px 6px #666666;
   box-shadow: 0px 2px 6px #666666;
-  color: #ffffff;
+  color: WhiteSmoke;
   font-size: 25px;
   padding: 20px 30px 20px 30px;
   text-decoration: none;
@@ -116,15 +116,23 @@ ul.posts {
 
 .button {
   border-style: solid;
-  border-color: #ffffff;
+  border-color: WhiteSmoke;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  color: #ffffff;
+  color: WhiteSmoke;
   font-size: 25px;
   padding: 20px 30px 20px 30px;
   text-decoration: none;
 }
+
+/*.button:hover {*/
+  /*background: #F69000;*/
+  /*background: #3F7EBD;*/
+  /*border-color: #F69000;*/
+  /*color:#4D95DF;*/
+  /*text-decoration: none;*/
+/*}*/
 
 .button:hover {
   background: #3F7EBD;
