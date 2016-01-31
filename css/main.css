@@ -126,14 +126,6 @@ ul.posts {
   text-decoration: none;
 }
 
-/*.button:hover {*/
-  /*background: #F69000;*/
-  /*background: #3F7EBD;*/
-  /*border-color: #F69000;*/
-  /*color:#4D95DF;*/
-  /*text-decoration: none;*/
-/*}*/
-
 .button:hover {
   background: #3F7EBD;
   text-decoration: none;
