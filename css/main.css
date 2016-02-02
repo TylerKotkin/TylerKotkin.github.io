@@ -20,14 +20,14 @@ nav ul{
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 25px;
     float:right;
-    margin-top: 14px;
+    margin-top: 20px;
 }
 
 nav {
   top: 0;
-  min-height: 50px;
+  min-height: 60px;
   background-color: WhiteSmoke;
   color: #4D95DF;
 }
@@ -145,6 +145,25 @@ ul.posts {
 
 .button:hover {
   background: #3F7EBD;
+  text-decoration: none;
+}
+
+.small_button {
+  border-style: solid;
+  border-color: #4D95DF;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #4D95DF;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+.small_button:hover {
+  background: #4D95DF;
+  color: WhiteSmoke;
   text-decoration: none;
 }
 
