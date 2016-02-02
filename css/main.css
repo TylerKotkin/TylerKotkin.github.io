@@ -84,7 +84,7 @@ ul.posts {
 
 .title_div {
   text-align: center;
-  margin-top: 20vh;
+  margin-top: 14vh;
 }
 
 .project_title {
@@ -194,7 +194,7 @@ footer {
 
 .front_page {
     height: 80vh;
-    min-height: 600px;
+    min-height: 500px;
 }
 
 .img_circle {
