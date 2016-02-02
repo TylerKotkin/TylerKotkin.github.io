@@ -10,14 +10,26 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 1px;
     font-weight: bold;
-    margin-left: 10%;
-    margin-right: 10%
+    /*margin-left: 10%;*/
+    /*margin-right: 10%;*/
+}
+
+nav ul{
+  margin-top: 0;
 }
 
 nav ul li {
     display: inline;
     margin-right: 20px;
     float:right;
+    margin-top: 14px;
+}
+
+nav {
+  top: 0;
+  min-height: 50px;
+  background-color: WhiteSmoke;
+  color: #4D95DF;
 }
 
 footer ul li {
@@ -30,13 +42,18 @@ a{
     color: inherit;
 }
 
-.a_nav, .a_footer{
-    text-decoration: none;
-    color: WhiteSmoke;
-}
-
 a:hover {
     text-decoration: underline;
+}
+
+.a_nav {
+    text-decoration: none;
+    color: #4D95DF;
+}
+
+.a_footer{
+    text-decoration: none;
+    color: WhiteSmoke;
 }
 
 h1 {
